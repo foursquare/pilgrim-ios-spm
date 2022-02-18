@@ -18,8 +18,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Pilgrim",
-            url: "https://foursquare.jfrog.io/artifactory/pilgrimsdk-ios/v3.0.2/Pilgrim.xcframework.zip",
-            checksum: "c839c8a2176510a535f1ed198773380faf04036487b51d22778cefc0e4eeb960"
+            url: "https://foursquare.jfrog.io/artifactory/pilgrimsdk-ios-beta/v3.0.3-beta1/Pilgrim.xcframework.zip",
+            checksum: "09b58741268570e2025dfda389f8da9880d4f36425f3af9b9b529dd442c28156"
         )
     ]
 )
